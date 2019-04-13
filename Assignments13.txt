@@ -1,0 +1,24 @@
+Assignment1
+13. Sa se realizeze un modul pentru gestionarea matricilor patrate de polinoame cu coeficienti
+reali. O matrice de polinoame este o matrice la care fiecare element este un polinom cu coeficienti
+reali, Modulul trebuie sa permita efectuarea urmatoarelor operatii:
+- Crearea unei matrici de polinoame;
+- Afisarea unei matrici de polinoame;
+- Adunarea a doua matrici (se aduna polinoamele din aceessi pozitie);
+- Înmultirea a doua matrici (similara cu inmultirea matricilor reale, dar operatia de
+inmultire a doua elemente este o inmultire a doua polinoame)
+- Evaluarea unei matrici intr-un punct dat; în acest caz va rezulta o matrice patrata de
+numere reale, fiecare element reprezentand evaluarea an punctul respectiv a
+polinomului de pe pozitia corespunzatoare.
+
+
+Assignment2
+13. Pe o masa de dimensiune suficient de mare in sunt asezate cuburi de diferite marimi. Unele cuburi sunt asezate
+direct pe masa, iar altele sunt asezate peste alte cuburi. Sa secrie o aplicatie Ptython orientata pe obiecte care
+permite urmatoarele operatii:
+- initializarea sistemului de cuburi
+- citirea unei liste de coordonate a cate doua perechi de puncte (un punct de plecare si un punct de sosire)
+- determinarea, pentru fiecare pereche de puncte din lista anterioara, daca exista un drum fara intreruperi,
+care pleaca din punctul de start si se termina in punctul se sosire si contine doar puncte aflate pe suprafetele
+exterioare a cuburilor
+- determinarea daca sistemul de cuburi este in echilibru
